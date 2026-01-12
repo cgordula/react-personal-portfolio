@@ -18,7 +18,7 @@ const data = [
     avatar: AVTR1,
     name: 'Jacob R.',
     review:
-      "I'm pleased with your contribution. No one is perfect, but I have been seeing you trying to take on more responsibility and some of the larger tasks.",
+      "I’m pleased with your contribution and appreciate your initiative in handling larger tasks and increased responsibilities.",
   },
   {
     avatar: AVTR2,
