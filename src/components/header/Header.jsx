@@ -14,9 +14,9 @@ const Header = () => {
         <CallToAction />
         <HeaderSocials />
 
-        <div className="me">
+        {/* <div className="me">
           <img src={ME} alt="me" />
-        </div>
+        </div> */}
 
         <a href="#footer" className="scroll__down">
           scroll down
