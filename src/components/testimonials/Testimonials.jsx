@@ -16,21 +16,21 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVTR1,
-    name: 'John Smith',
+    name: 'Jacob R.',
     review:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam itaque vitae similique quia et voluptates non quaerat repellendus reiciendis ratione, obcaecati, sint autem doloribus quo soluta inodio! Placeat, mollitia.',
+      "I'm pleased with your contribution. No one is perfect, but I have been seeing you trying to take on more responsibility and some of the larger tasks.",
   },
   {
     avatar: AVTR2,
-    name: 'John Doe',
+    name: 'Bridget G.',
     review:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam itaque vitae similique quia et voluptates non quaerat repellendus reiciendis ratione, obcaecati, sint autem doloribus quo soluta inodio! Placeat, mollitia.',
+      "You are the best. Thank you for all your hard work and strong commitment to the team.",
   },
   {
     avatar: AVTR3,
-    name: 'Jane Doe',
+    name: 'Carley T.',
     review:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam itaque vitae similique quia et voluptates non quaerat repellendus reiciendis ratione, obcaecati, sint autem doloribus quo soluta inodio! Placeat, mollitia.',
+      "Watching you grow into the incredible web developer you are has been seriously inspiring.",
   },
 ];
 
